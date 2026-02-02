@@ -17,8 +17,8 @@ Currently seeking a 6-month internship in cybersecurity and embedded systems, wi
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matiyaLmouine/Mugiwara-D/main/metrics.left.svg" alt="Left Metrics" width="49%">
-  <img src="https://raw.githubusercontent.com/matiyaLmouine/Mugiwara-D/main/metrics.right.svg" alt="Right Metrics" width="49%">
+  <img src="https://github.com/Mugiwara-D/Mugiwara-D/blob/main/metrics.left.svg" alt="Left Metrics" width="49%">
+  <img src="https://github.com/Mugiwara-D/Mugiwara-D/blob/main/metrics.right.svg" alt="Right Metrics" width="49%">
 </div>
 
 ---
