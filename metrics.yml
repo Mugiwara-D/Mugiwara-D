@@ -1,0 +1,99 @@
+name: GitHub Metrics
+
+on:
+  # Schedule daily updates at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Run on push to main branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      # ====================================
+      # LEFT SIDE METRICS
+      # ====================================
+      - name: Generate Left Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.left.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Base configuration
+          user: matiyaLmouine
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Display options
+          config_timezone: Europe/Paris
+          config_display: large
+          config_animated: yes
+          
+          # Languages plugin - shows your most used languages
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
+          
+          # Lines of code plugin
+          plugin_lines: yes
+          plugin_lines_sections: base
+          
+          # Activity plugin - recent commits
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_visibility: all
+      
+      # ====================================
+      # RIGHT SIDE METRICS
+      # ====================================
+      - name: Generate Right Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.right.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Base configuration
+          user: matiyaLmouine
+          template: classic
+          base: ""
+          
+          # Display options
+          config_timezone: Europe/Paris
+          config_display: large
+          config_animated: yes
+          
+          # Habits plugin - coding habits
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          
+          # Notable contributions
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+          
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
