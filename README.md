@@ -2,7 +2,8 @@
 
 **Student at École 42 Paris** | **Cybersecurity & Embedded Systems Enthusiast**
 
-Currently seeking a 6-month internship in cybersecurity and embedded systems, with a passion for avionics and low-level programming.
+Looking for a 6-month internship in cybersecurity or embedded systems. i am passionate about avionics low-level programming and video games.
+Note: I primarily work on École 42's school repositories, so my GitHub doesn't show all my activity.
 
 ---
 
