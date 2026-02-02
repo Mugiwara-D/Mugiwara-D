@@ -10,7 +10,7 @@ Currently seeking a 6-month internship in cybersecurity and embedded systems, wi
 
 **Languages:** C, C++, Assembly (x86-64), JavaScript, TypeScript  
 **Interests:** Cybersecurity, Reverse Engineering, Network Forensics, CTF Challenges, Binary Exploitation  
-**Currently Working On:** ft_transcendence (École 42 capstone project)
+**Currently Working On:** Dr_quine (simple quine programme in c and asm)
 
 ---
 
@@ -39,8 +39,7 @@ Full-stack web application - École 42 final project.
 ## 📫 Let's Connect
 
 - 💼 Looking for cybersecurity/embedded systems internship opportunities
-- 🌐 Portfolio: [Your website here]
-- 📧 Email: [Your email here]
+- 📧 Email: matiya.edit@gmail.com
 - 💬 Always interested in discussing cybersecurity, avionics, and low-level systems!
 
 ---
