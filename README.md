@@ -23,16 +23,16 @@ Currently seeking a 6-month internship in cybersecurity and embedded systems, wi
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Some of my favorite Featured Projects
 
-### [libasm](https://github.com/Mugiwara-D/libasm)
-Assembly language implementation of standard C library functions (x86-64).
+### [fractol](https://github.com/Mugiwara-D/fractol-42)
+A fractal explorer written in C using MinilibX.
 
-### [ft_ping](https://github.com/Mugiwara-D/ft_ping)
-Network diagnostic tool implementing ICMP protocol in C.
+### [snowcrash](https://github.com/Mugiwara-D/snow-crash)
+group project to introduce to basic cybersecurity concept
 
-### [ft_transcendence](https://github.com/Mugiwara-D/ft_transcendence)
-Full-stack web application - École 42 final project.
+### [Piscine embedded](https://github.com/Mugiwara-D/42Piscine_embedded)
+introduction to embedded programing on a ATmega48 ship
 
 ---
 
