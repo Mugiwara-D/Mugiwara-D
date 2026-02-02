@@ -17,21 +17,21 @@ Currently seeking a 6-month internship in cybersecurity and embedded systems, wi
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/matiyaLmouine/matiyaLmouine/main/metrics.left.svg" alt="Left Metrics" width="49%">
-  <img src="https://raw.githubusercontent.com/matiyaLmouine/matiyaLmouine/main/metrics.right.svg" alt="Right Metrics" width="49%">
+  <img src="https://raw.githubusercontent.com/matiyaLmouine/Mugiwara-D/main/metrics.left.svg" alt="Left Metrics" width="49%">
+  <img src="https://raw.githubusercontent.com/matiyaLmouine/Mugiwara-D/main/metrics.right.svg" alt="Right Metrics" width="49%">
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [libasm](https://github.com/matiyaLmouine/libasm)
+### [libasm](https://github.com/Mugiwara-D/libasm)
 Assembly language implementation of standard C library functions (x86-64).
 
-### [ft_ping](https://github.com/matiyaLmouine/ft_ping)
+### [ft_ping](https://github.com/Mugiwara-D/ft_ping)
 Network diagnostic tool implementing ICMP protocol in C.
 
-### [ft_transcendence](https://github.com/matiyaLmouine/ft_transcendence)
+### [ft_transcendence](https://github.com/Mugiwara-D/ft_transcendence)
 Full-stack web application - École 42 final project.
 
 ---
