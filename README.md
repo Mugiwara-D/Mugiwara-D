@@ -10,8 +10,7 @@ Currently seeking a 6-month internship in cybersecurity and embedded systems, wi
 
 **Languages:** C, C++, Assembly (x86-64), JavaScript, TypeScript  
 **Interests:** Cybersecurity, Reverse Engineering, Network Forensics, CTF Challenges, Binary Exploitation  
-**Currently Working On:** Dr_quine (simple quine programme in c and asm)
-
+**Currently Working On:** Dr_quine ###[Dr_quine](https://github.com/Mugiwara-D/Dr_Quine) (simple quine programme in c and asm)
 ---
 
 ## 📊 GitHub Statistics
