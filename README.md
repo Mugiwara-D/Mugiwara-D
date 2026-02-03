@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Matiya
+# Hello, I'm Matiya
 
 **Student at École 42 Paris** | **Cybersecurity & Embedded Systems Enthusiast**
 
@@ -7,7 +7,7 @@ Note: I primarily work on École 42's school repositories, so my GitHub doesn't 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** C, C++, Assembly (x86-64), JavaScript, TypeScript  
 **Interests:** Cybersecurity, Reverse Engineering, Network Forensics, CTF Challenges, Binary Exploitation  
@@ -15,7 +15,7 @@ Note: I primarily work on École 42's school repositories, so my GitHub doesn't 
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github.com/Mugiwara-D/Mugiwara-D/blob/main/metrics.left.svg" alt="Left Metrics" width="49%">
@@ -24,7 +24,7 @@ Note: I primarily work on École 42's school repositories, so my GitHub doesn't 
 
 ---
 
-## 🚀 Some of my favorite Featured Projects
+## Some of my favorite Featured Projects
 
 ### [fractol](https://github.com/Mugiwara-D/fractol-42)
 A fractal explorer written in C using MinilibX.
@@ -37,11 +37,9 @@ introduction to embedded programing on a ATmega48 ship
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 💼 Looking for cybersecurity/embedded systems internship opportunities
 - 📧 Email: matiya.edit@gmail.com
-- 💬 Always interested in discussing cybersecurity, avionics, and low-level systems!
 
 ---
 
